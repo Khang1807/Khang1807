@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Khang1807&style=flat-square&color=blue" alt="" gravity="center"/></div>
 <h1 align="center">
   hey there
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>-->
